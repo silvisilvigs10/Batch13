@@ -1,4 +1,4 @@
-public class Calculator {
+public class Calculator  {
     public void welcomeMessage () {
         system.debug('welcome to apex calc');
 
